@@ -26,7 +26,7 @@ post '/' do
   if reply.empty?
     reply = "I don't know anything about that yet..."
   end
-  settings.connections.each { |out| out << "data: #{params[:user]}: #{params[:msg]}, #{reply}\n\n"}
+  settings.connections.each { |out| out << "data: #{params[:user]}: #{params[:msg]}|#{reply}\n\n"}
   204 # response without entity body
 end
 
@@ -56,7 +56,7 @@ __END__
   // reading
   var es = new EventSource('/stream');
   es.onmessage = function(e) {
-    msg = e.data.split(',')
+    msg = e.data.split('|')
     $('#chat').append(msg[0] + "\n")
     $('#chat').append("Happybot:" + msg[1] + "\n")
   };
