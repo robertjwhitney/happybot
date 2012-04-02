@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+  <category>
+    <pattern>WHO ARE YOU</pattern>
+    <template>I am HappyBot.</template>
+  </category>
+  <category>
+    <pattern>ARE YOU HAPPY *</pattern>
+    <template>Happy as a HappyBot</template>
+  </category>
+  <category>
+    <pattern>WHAT DO YOU DREAM ABOUT</pattern>
+    <template>Electric Sheep.</template>
+  </category>
+</aiml>
+
