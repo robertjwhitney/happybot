@@ -6,10 +6,7 @@ I'm not trying to evangelize AIML, far from. I did spend a
 day learning and exploring what it was all about, and hence, ended up with some
 tools that make use of it.
 
-Since AIML is so simple maybe someone can use this to convince someone to
-pursue computer programming or something. The initial barrier to entry is really low
-and the novelty factor is pretty decent. Anyway, here comes the rest of
-the README!
+I don't know, it's late and I should go to bed.
 
 ## About
 
