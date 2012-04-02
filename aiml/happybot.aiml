@@ -6,7 +6,7 @@
   </category>
   <category>
     <pattern>ARE YOU HAPPY *</pattern>
-    <template>Happy as a HappyBot</template>
+    <template>Happy as a HappyBot.</template>
   </category>
   <category>
     <pattern>WHAT DO YOU DREAM ABOUT</pattern>

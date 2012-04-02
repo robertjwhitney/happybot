@@ -21,7 +21,7 @@ be pretty straight forward.
 
 AIML INFO: http://www.alicebot.org/aiml.html
 
-You can find a more complext set of ALICE AIML files which have better examples of what AIML can do hosted at http://code.google.com/p/aiml-en-us-foundation-alice
+You can find a more complicated set of ALICE AIML files which have better examples of what AIML can do hosted at http://code.google.com/p/aiml-en-us-foundation-alice
 
 Some of them have thrown errors in programr so a subset is available here: https://github.com/robertjwhitney/alice-programr
 
