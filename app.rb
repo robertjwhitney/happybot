@@ -58,7 +58,6 @@ __END__
   es.onmessage = function(e) {
     msg = e.data.split(',')
     $('#chat').append(msg[0] + "\n")
-    setTimeout(600)
     $('#chat').append("Happybot:" + msg[1] + "\n")
   };
 
