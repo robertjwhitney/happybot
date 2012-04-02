@@ -2,7 +2,7 @@
 
 ## Preface
 
-I'm not trying to evangelize AIML, far from it actually. I did however, spend a
+I'm not trying to evangelize AIML, far from. I did spend a
 day learning and exploring what it was all about, and hence, ended up with some
 tools that make use of it.
 
